@@ -1,0 +1,15 @@
+{
+  "name": "轻记 · 减肥追踪",
+  "short_name": "轻记",
+  "description": "拍照记录饮食与运动，推演理论体重，对比实际体重并分析偏差原因",
+  "lang": "zh-CN",
+  "start_url": "./轻记FitLog.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#f3f6f4",
+  "theme_color": "#16a34a",
+  "icons": [
+    { "src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" }
+  ]
+}
